@@ -3,3 +3,4 @@ The file Stratifiedfire.py contains the python code of the cnn model that implem
 It is a tensorflow model and is deployed as  Web page with the help of flask
 app.py contains the code for Flask app
 Templates folder contaains the index.html file that serves as the template
+Images used for predictons are stored in the Images folder
